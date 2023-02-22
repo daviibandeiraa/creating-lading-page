@@ -20,7 +20,7 @@ body {
   padding: 24px;
 }
 
-.cabecalho-imagem {
+.logoCabecalho {
   height: 72px;
 
 }
@@ -89,6 +89,7 @@ body {
 
 .conteudo-principal-imagem{
   height: 430px;
+  box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
 }
 .conteudo-secundario{
 
@@ -123,8 +124,10 @@ body {
   border-top: 0.4px solid #FFF2E7;
 }
 
-.rodape-imagem{
-  height: 48px;
-  display: block;
-  margin: 0 auto;
+.titulo-rodape{
+  text-align: center;
+  font-family: 'Righteous', cursive;
+  font-size: 36px;
+  font-weight: 400;
+  color: white;
 }
